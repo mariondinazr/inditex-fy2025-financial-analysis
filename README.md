@@ -1,7 +1,7 @@
 # Inditex FY2025 Financial Health Analysis
 ### A Tableau Public case study | Financial Analysis & Business Intelligence Portfolio
 
-**[View the interactive dashboard on Tableau Public →](#)** *(https://public.tableau.com/views/InditexFY2025FinancialHealthAnalysis/InditexFY25FA?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/InditexFY2025FinancialHealthAnalysis/InditexFY25FA?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
