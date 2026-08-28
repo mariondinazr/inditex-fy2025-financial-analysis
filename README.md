@@ -37,7 +37,7 @@ That combination is the signature of operating leverage: as top-line growth cool
 
 **The takeaway a CFO would want:** Inditex isn't stalling. It's converting a maturing growth phase into steadier, margin-protected earnings.
 
-*[Dashboard: P&L Performance FY2021–FY2025 — KPI cards, interactive Revenue/Gross Profit/EBITDA/Net Income trend with YoY growth, FY2025 P&L overview chart]*
+![P&L Performance Dashboard](pl-performance.png)
 
 ## Finding 2 — Cash Generation Remains Strong, Funding Rising Investment Without New Debt
 
@@ -47,7 +47,7 @@ At the same time, CapEx has more than tripled since FY2021 (€666M → €2,193
 
 **The takeaway:** reported profit is real, cash-backed profit — and it's comfortably funding a growing investment program without external financing.
 
-*[Dashboard: Cash Flow Health FY2021–FY2025 — KPI cards, Cash Flow Trend & Cash Conversion Ratio chart]*
+![Cash Flow Health Dashboard](cash-flow-health.png)
 
 ## Finding 3 — A Deliberately Conservative Balance Sheet
 
@@ -55,7 +55,7 @@ Equity has represented approximately 54-57% of total capital every year for five
 
 **The takeaway:** Inditex funds itself conservatively and consistently, and its liquidity profile reflects its business model rather than emerging financial stress.
 
-*[Dashboard: Balance Sheet Health FY2021–FY2025 — liquidity/leverage KPIs, Asset Composition and Financing Structure charts]*
+![Balance Sheet Health Dashboard](balance-sheet-health.png)
 
 ## Putting It Together
 
