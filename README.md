@@ -77,4 +77,4 @@ Slower growth, but profit growing faster than revenue. Cash conversion normalizi
 
 Built entirely in Tableau Public. Full workbook and story available at the link above. Feedback welcome — I'm actively building toward FP&A / Finance Business Analyst / Finance BI roles in the Spanish market and always open to a conversation.
 
-**Mariondina Zuniga Ramirez | [LinkedIn] (linkedin.com/in/mariondina-z-bba010151) | mariondinazr@gmail.com**
+**Mariondina Zuniga Ramirez | [LinkedIn] (linkedin.com/in/mariondina-z-bba010151) **
