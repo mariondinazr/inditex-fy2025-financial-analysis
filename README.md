@@ -1,5 +1,5 @@
 # Inditex FY2025 Financial Health Analysis
-### A Tableau Public case study | Financial Analysis & Business Intelligence Portfolio
+### A Tableau Public case study | Financial Analysis & Business Inteligence Portfolio
 
 **[View the interactive dashboard on Tableau Public →] 
 (https://public.tableau.com/views/InditexFY2025FinancialHealthAnalysis/InditexFY25FA?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
@@ -27,8 +27,8 @@ This project is meant to show three things together:
 
 - **Source:** Inditex Annual Report, FY2021–FY2025 (publicly available at [inditex.com](https://www.inditex.com)). This is independent analysis and is not affiliated with or endorsed by Inditex.
 - **Structure:** Statement (P&L / Cash Flow / Balance Sheet) | Description (line item) | Fiscal Year | Amount. A long/tidy format built to scale across all three statements.
-- **Tool:** Tableau Public, chosen deliberately over Desktop to demonstrate working within its constraints (extract-only publishing, no live data blending).
-- **Calculations:** Custom calculated fields for YoY growth, liquidity/leverage/cash-flow ratios (Current Ratio, Quick Ratio, Debt-to-Equity, Working Capital, Free Cash Flow, Cash Conversion Ratio), and table calculations for balance sheet composition (% of Total).
+- **Tool:** Tableau Public, chosen deliberately over Desktop to demonstrate working within its constraints.
+- **Calculations:** Custom calculated fields for YoY growth, liquidity/leverage/cash-flow ratios, and table calculations for balance sheet composition (% of Total).
 - **AI collaboration:** Built with Claude (Anthropic) as a Tableau technical advisor and analytical sounding board for troubleshooting calculated fields, structuring dashboards, and stress-testing findings against source data. All financial interpretations, data sourcing, and figure verification against Inditex's primary financial statements were done independently. Several AI-suggested figures and formulas were corrected after checking against the original filings (see Finding 2 below).
 
 ## Finding 1 — Growth Is Slowing, But Profitability Is Holding Up Better
@@ -43,7 +43,7 @@ That combination is the signature of operating leverage: as top-line growth cool
 
 ## Finding 2 — Cash Generation Remains Strong, Funding Rising Investment Without New Debt
 
-Operating Cash Flow (€9,232M) eased slightly in FY2025 (-0.6%), broadly in line with the deceleration seen across the P&L. The Cash Conversion Ratio (Operating Cash Flow relative to Net Income) sits at 148.4%, down from an elevated 208.3% in FY2021, when pandemic-depressed earnings temporarily inflated the ratio. Viewed over five years, this is a normalization from an unusual base, not a deterioration in cash quality: Inditex still converts roughly €1.50 of operating cash for every €1 of reported profit.
+Operating Cash Flow (€9,232M) eased slightly in FY2025 (-0.6%), broadly in line with the deceleration seen across the P&L. The Cash Conversion Ratio (Operating Cash Flow relative to Net Income) sits at 148.4%, down from an elevated 208.3% in FY2021, when pandemic-depressed earnings temporarily inflated the ratio. Viewed over five years, this is a normalisation from an unusual base, not a deterioration in cash quality: Inditex still converts roughly €1.50 of operating cash for every €1 of reported profit.
 
 Free Cash Flow, calculated consistently with Inditex's own reported methodology (Operating Cash Flow less capital expenditure on both tangible and intangible assets, and lease payments) stands at approximately €4,686M. CapEx has more than doubled since FY2021 (€1,126M → €2,712M), reflecting sustained investment in stores and logistics, funded from internally generated cash without any increase in leverage.
 
@@ -63,18 +63,18 @@ Equity has represented approximately 54-57% of total capital every year for five
 
 ## Putting It Together
 
-Slower growth, but profit growing faster than revenue. Cash conversion normalizing from a pandemic-era high, not declining in quality, with working capital efficiency holding steady. Rising investment, funded internally, on a balance sheet that hasn't taken on more debt to do it. Together, these three statements tell a more complete story than any one of them alone: **Inditex is trading pure top-line expansion for durability, cash-backed profitability, and financial discipline**, exactly the kind of full-picture read an FP&A function is expected to deliver to leadership, rather than reacting to a single slowing metric in isolation.
+Slower growth, but profit growing faster than revenue. Cash conversion normalising from a pandemic-era high, not declining in quality, with working capital efficiency holding steady. Rising investment, funded internally, on a balance sheet that hasn't taken on more debt to do it. Together, these three statements tell a more complete story than any one of them alone: **Inditex is trading pure top-line expansion for durability, cash-backed profitability, and financial discipline**, exactly the kind of full-picture read an FP&A function is expected to deliver to leadership, rather than reacting to a single slowing metric in isolation.
 
 ## Skills Demonstrated
 
-- Full three-statement financial analysis (P&L,Cash Flow , Balance Sheet) and ratio analysis
+- Full three-statement financial analysis (P&L, Cash Flow, Balance Sheet) and ratio analysis
 - KPI design and YoY variance analysis, including recognising when YoY movements need context rather than a simple good/bad read
 - Data modelling for BI tools (long-format schema design across three statements)
 - Tableau: calculated fields, table calculations, parameter-driven interactivity, dashboard and story design
-- Executive communication — translating raw financial data into decision-ready insight
+- Executive communication: translating raw financial data into decision-ready insight
 
 ## About This Project
 
-Built entirely in Tableau Public. Full workbook and story available at the link above. Feedback welcome — I'm actively building toward FP&A / Finance Business Analyst / Finance BI roles in the Spanish market and always open to a conversation.
+Built entirely in Tableau Public. Full workbook and story available at the link above. Feedback welcome. I'm actively building toward FP&A / Finance Business Analyst / Finance BI roles in the Spanish market and always open to a conversation.
 
-**Mariondina Zuniga Ramirez | [LinkedIn] (linkedin.com/in/mariondina-z-bba010151) **
+**Mariondina Zuniga Ramirez | [LinkedIn] (linkedin.com/in/mariondina-z-bba010151)**
